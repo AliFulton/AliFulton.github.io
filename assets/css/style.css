@@ -258,6 +258,12 @@ h6 {
   color: #fff;
 }
 
+#hero h3 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #fff;
+}
+
 #hero p {
   color: #fff;
   margin-bottom: 50px;
